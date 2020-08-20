@@ -1,4 +1,4 @@
 # GitLesson
 aaaaa  
--gifu
-Komagome
+- gifu
+- Komagome
