@@ -1,5 +1,7 @@
 # GitLesson
 aaaaa  
+- gifu
+- Komagome
 -gifu
-Komagome
+Bunkyo
 Bunkyo
